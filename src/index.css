@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-primary {
+  background-color: #393e41;
+}
+
+.bg-secondary {
+  background-color: #e2c044;
+}
+
+.bg-accent {
+  background-color: #d3d0cb;
+}
